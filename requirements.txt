@@ -1,1 +1,6 @@
-pip freeze > requirements.txt
+streamlit
+scikit-learn
+pandas
+numpy
+joblib
+plotly
